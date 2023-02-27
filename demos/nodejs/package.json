@@ -8,7 +8,7 @@
   "dependencies": {
 	  "soma.js": "*",
 	  "soma-template": "*",
-	  "express": "3.x",
+	  "express": "4.16.0",
 	  "jsdom": "*"
   }
 }
